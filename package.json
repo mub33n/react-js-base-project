@@ -1,5 +1,5 @@
 {
-  "name": "eva_dashboard",
+  "name": "base_project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
